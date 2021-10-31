@@ -7,7 +7,7 @@ keys.forEach(function(key){
 
 
 function keyPlay (event) {
-  event.target.style.backgroundColor =' #6df0c2';
+  event.target.style.backgroundColor = 'greenyellow';
 };
 
 
